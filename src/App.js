@@ -1,7 +1,3 @@
 export default function App() {
-  return (
-    <div>
-      <p>Poo</p>
-    </div>
-  );
+  return <div className="p-8">Hello!</div>;
 }
